@@ -1,0 +1,16 @@
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\bin\Debug\net5.0\CommonIntermediateLanguage.exe
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\bin\Debug\net5.0\CommonIntermediateLanguage.deps.json
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\bin\Debug\net5.0\CommonIntermediateLanguage.runtimeconfig.json
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\bin\Debug\net5.0\CommonIntermediateLanguage.runtimeconfig.dev.json
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\bin\Debug\net5.0\CommonIntermediateLanguage.dll
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\bin\Debug\net5.0\ref\CommonIntermediateLanguage.dll
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\bin\Debug\net5.0\CommonIntermediateLanguage.pdb
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\obj\Debug\net5.0\CommonIntermediateLanguage.csproj.AssemblyReference.cache
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\obj\Debug\net5.0\CommonIntermediateLanguage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\obj\Debug\net5.0\CommonIntermediateLanguage.AssemblyInfoInputs.cache
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\obj\Debug\net5.0\CommonIntermediateLanguage.AssemblyInfo.cs
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\obj\Debug\net5.0\CommonIntermediateLanguage.csproj.CoreCompileInputs.cache
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\obj\Debug\net5.0\CommonIntermediateLanguage.dll
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\obj\Debug\net5.0\ref\CommonIntermediateLanguage.dll
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\obj\Debug\net5.0\CommonIntermediateLanguage.pdb
+C:\Users\hatic\source\repos\CommonIntermediateLanguageSample\CommonIntermediateLanguage\obj\Debug\net5.0\CommonIntermediateLanguage.genruntimeconfig.cache
